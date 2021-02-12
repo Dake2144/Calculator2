@@ -7,7 +7,7 @@ public class Main {
         Calculator calculator = new Calculator(inputOutput,verification,converterNumber,calc);
         calculator.start();
         /*
-        Доброго времени суток , если вы читаете коментари ьл
+        Герман дайте мне шанс , пожалуйста ))) я вас не подведу )) 
          */
     }
 }
